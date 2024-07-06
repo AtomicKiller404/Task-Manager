@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Task Manager",
+    "\\Task Manager\\Task Manager",
+    "\\Task Manager\\Task Manager\\db"
   ],
+  "SelectedNode": "\\Task Manager\\Task Manager\\db\\taskmanager.db",
   "PreviewInSolutionExplorer": false
 }
