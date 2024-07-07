@@ -18,3 +18,24 @@ CREATE TABLE IF NOT EXISTS Task_Status (
 	id INTEGER PRIMARY KEY AUTOINCREMENT,
 	name TEXT NOT NULL UNIQUE
 );
+
+CREATE TABLE IF NOT EXISTS Tasks (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	title TEXT 	NOT NULL,
+	description TEXT,
+	status_id INTEGER,
+    project_id INTEGER,
+    due_date DATE,
+	created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+    updated_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+	FOREIGN KEY (status_id) REFERENCES Task_Status(id),
+    FOREIGN KEY (project_id) REFERENCES Projects(id)
+);
+
+CREATE TABLE IF NOT EXISTS UserTasks (
+    user_id INTEGER,
+    task_id INTEGER,
+    PRIMARY KEY (user_id, task_id),
+    FOREIGN KEY (user_id) REFERENCES Users(id) ON DELETE CASCADE,
+    FOREIGN KEY (task_id) REFERENCES Tasks(id) ON DELETE CASCADE
+);

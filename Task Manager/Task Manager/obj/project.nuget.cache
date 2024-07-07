@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "SysiNc02WmVX57JweMiuv+OGWZu2ho9+HD+JmIE7x+NwdjqDIX7lntgQN0KmZFGOBIYr9ey0FxbWNYY1+JABSw==",
+  "success": true,
+  "projectFilePath": "E:\\GitHub\\Task-Manager\\Task Manager\\Task Manager\\Task Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mihap\\.nuget\\packages\\microsoft.data.sqlite\\8.0.6\\microsoft.data.sqlite.8.0.6.nupkg.sha512",
+    "C:\\Users\\mihap\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.6\\microsoft.data.sqlite.core.8.0.6.nupkg.sha512",
+    "C:\\Users\\mihap\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.8\\sqlitepclraw.bundle_e_sqlite3.2.1.8.nupkg.sha512",
+    "C:\\Users\\mihap\\.nuget\\packages\\sqlitepclraw.core\\2.1.8\\sqlitepclraw.core.2.1.8.nupkg.sha512",
+    "C:\\Users\\mihap\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.8\\sqlitepclraw.lib.e_sqlite3.2.1.8.nupkg.sha512",
+    "C:\\Users\\mihap\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.1.8\\sqlitepclraw.provider.dynamic_cdecl.2.1.8.nupkg.sha512",
+    "C:\\Users\\mihap\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\mihap\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\mihap\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mihap\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

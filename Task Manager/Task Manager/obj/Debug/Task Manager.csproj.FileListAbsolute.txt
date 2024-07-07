@@ -1,0 +1,24 @@
+E:\GitHub\Task-Manager\Task Manager\Task Manager\bin\Debug\Task Manager.exe.config
+E:\GitHub\Task-Manager\Task Manager\Task Manager\bin\Debug\Task Manager.exe
+E:\GitHub\Task-Manager\Task Manager\Task Manager\bin\Debug\Task Manager.pdb
+E:\GitHub\Task-Manager\Task Manager\Task Manager\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\GitHub\Task-Manager\Task Manager\Task Manager\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\GitHub\Task-Manager\Task Manager\Task Manager\bin\Debug\SQLitePCLRaw.core.dll
+E:\GitHub\Task-Manager\Task Manager\Task Manager\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\GitHub\Task-Manager\Task Manager\Task Manager\bin\Debug\System.Buffers.dll
+E:\GitHub\Task-Manager\Task Manager\Task Manager\bin\Debug\System.Memory.dll
+E:\GitHub\Task-Manager\Task Manager\Task Manager\bin\Debug\System.Numerics.Vectors.dll
+E:\GitHub\Task-Manager\Task Manager\Task Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\GitHub\Task-Manager\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+E:\GitHub\Task-Manager\Task Manager\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+E:\GitHub\Task-Manager\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+E:\GitHub\Task-Manager\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+E:\GitHub\Task-Manager\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.CopyComplete
+E:\GitHub\Task-Manager\Task Manager\Task Manager\obj\Debug\Task Manager.exe
+E:\GitHub\Task-Manager\Task Manager\Task Manager\obj\Debug\Task Manager.pdb
+E:\GitHub\Task-Manager\Task Manager\Task Manager\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\GitHub\Task-Manager\Task Manager\Task Manager\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\GitHub\Task-Manager\Task Manager\Task Manager\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\GitHub\Task-Manager\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\Task-Manager\Task Manager\Task Manager\obj\Debug\Task Manager.exe.config
+E:\GitHub\Task-Manager\Task Manager\Task Manager\obj\Debug\Task_Manager.Form1.resources
